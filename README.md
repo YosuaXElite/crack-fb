@@ -8,6 +8,7 @@ pip install mechanize
 pip install futures  
 rm -rf sbf  
 git clone https://github.com/YosuaXElite/crack-fb
+
 cd sbf 
 git pull  
 python sbf.py 
