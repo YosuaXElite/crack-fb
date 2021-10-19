@@ -6,9 +6,9 @@ pip install bs4
 pip install requests  
 pip install mechanize  
 pip install futures  
-rm -rf sbf  
+rm -rf crack  
 git clone https://github.com/YosuaXElite/crack-fb
 
-cd sbf 
+cd crack 
 git pull  
-python sbf.py 
+python crack.py 
